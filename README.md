@@ -1,4 +1,4 @@
-### Payment and license processing service (Bitcoin) for Axe-Bot
+### Payment and license processing service (Bitcoin) for Axe-Bot. Frontend for https://github.com/alex-bormotov/AXE-Bot-Billing-open
 
 
 > Replace billing_url and callback into run.py
