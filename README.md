@@ -20,3 +20,8 @@ gunicorn run:app
 ```
 
 > Put xpubs into db
+
+---
+
+This is one of the parts of my second Python project (https://github.com/alex-bormotov/AXE-Bot-open)
+If my code was useful for you may buy me coffee 3K9ocinkiUUqkBj9BqvFVsUgW2uMLqZFcP (bitcoin)
