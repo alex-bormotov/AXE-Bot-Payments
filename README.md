@@ -1,4 +1,4 @@
-### Payment and license processing service (Bitcoin) for Axe-Bot. Frontend for https://github.com/alex-bormotov/AXE-Bot-Billing-open
+### Payment and license processing service (Bitcoin) for Axe-Bot. Frontend for https://github.com/alex-bormotov/AXE-Bot-Billing
 
 
 > Replace billing_url and callback into run.py
@@ -23,5 +23,5 @@ gunicorn run:app
 
 ---
 
-This is one of the parts of my second Python project (https://github.com/alex-bormotov/AXE-Bot-open)
+This is one of the parts of my second Python project (https://github.com/alex-bormotov/AXE-Bot)
 If my code was useful for you may buy me coffee 3K9ocinkiUUqkBj9BqvFVsUgW2uMLqZFcP (bitcoin)
