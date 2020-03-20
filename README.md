@@ -27,9 +27,11 @@ This is one of the parts of my second Python project (https://github.com/alex-bo
 
 ---
 
-> This is my second Python project
+##### Donate
 
-> If my code was useful for you may buy me tea: 
+> If my code was useful for you may buy me coffee:
+
+> [My Binance Referal Link](https://www.binance.com/en/register?ref=35560900)
 
 > BTC 1LTwU8hVYxxpHUDf3wYNDjnS9kK4PDdtgT
 
