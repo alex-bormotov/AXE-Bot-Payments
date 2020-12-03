@@ -33,6 +33,4 @@ This is one of the parts of my second Python project (https://github.com/alex-bo
 
 > [My Binance Referal Link](https://www.binance.com/en/register?ref=35560900)
 
-> BTC 1LTwU8hVYxxpHUDf3wYNDjnS9kK4PDdtgT
-
-> ETH 0x23913F4ab3839a8b7bB987F348b8d974C045Dd17
+> ETH 0x4a92Eb0b09Dc2DC27D2C2a35f5A28eF7969dE528
